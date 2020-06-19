@@ -1,0 +1,36 @@
+<div class="input=group input-group-lg">
+    <div class="input-grou-prepend">
+        <span class="input-group-text">New Todo List</span>
+    </div>
+
+    <input type="text" class="form-control" placeholder="Enter your text here" @bind-value="text" @bind-value:event="oninput" @onkeypress="keyPressed" />
+    <div class="input-group-append">
+            <button class="btn btn-secondary @buttonDisabled" @onclick="newItem" >Add (Enter)</button>
+    </div>
+</div>
+
+@code
+{
+    string text { get; set; }
+    string buttonDisabled => text != null && text.Length > 0 ? null : "disabled";
+
+    [Parameter]
+    public Action<string> onNewItem { get; set; }
+
+    void newItem()
+    {
+        if (onNewItem != null)
+        {
+            onNewItem(text);
+            text = "";
+        }
+    }
+
+    void keyPressed(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            newItem();
+        }
+    }
+}

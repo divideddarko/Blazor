@@ -1,0 +1,13 @@
+@page "/ToDoList"
+
+<h1>ToDoList:</h1>
+<TodoList todos="@todos" />
+
+@code
+{
+    IList<Todo> todos = new List<Todo>
+    {
+    new Todo {text = "component 1"},
+    new Todo {text = "component 2"}
+    };
+}

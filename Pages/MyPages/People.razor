@@ -1,0 +1,48 @@
+@layout MainLayout
+@page "/Data/People"
+
+@using Twitch_Tools
+
+@inject IPeopleData _db
+
+<h2>People</h2>
+
+<h4>Current People</h4>
+
+@if (people is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var person in people)
+            {
+                <tr>
+                    <td>@person.FirstName</td>
+                    <td>@person.Surname</td>
+                    <td>@person.EmailAddress</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+@code
+{
+    private List<PersonModel> people;
+
+    protected override async Task OnInitializedAsync()
+    {
+        people = await _db.GetPeople();
+    }
+}

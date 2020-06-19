@@ -1,0 +1,30 @@
+@page "/login"
+
+
+<div class="container-fluid h-50 col align-items-center bg-secondary rounded">
+  <div class="row align-items-center">
+    <div class="col loginImage">
+      @* <img class="card-image" src="/images/welcomeImage.jpg" alt="Welcome login image" /> *@
+    </div>
+    <div class="col-6">
+      <form>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="emailAddressInput" placeholder="Email Address">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" id="passwordInput">
+            </div>
+            @* <button @onclick="RegisterModal" class="btn btn-primary">Register</button> *@
+            <button type="submit" class="btn btn-primary">Login</button>
+
+        </form>
+    </div>
+  </div>
+</div>
+
+
+@{
+
+}

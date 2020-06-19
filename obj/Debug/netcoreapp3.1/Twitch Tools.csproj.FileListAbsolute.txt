@@ -1,0 +1,87 @@
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.csprojAssemblyReference.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\staticwebassets\Twitch Tools.StaticWebAssets.Manifest.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\staticwebassets\Twitch Tools.StaticWebAssets.xml
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.RazorComponent.input.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.exe
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.deps.json
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.runtimeconfig.json
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.runtimeconfig.dev.json
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.pdb
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.Views.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.Views.pdb
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Twitch Tools.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.TagHelpers.input.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.TagHelpers.output.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.RazorCoreGenerate.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.RazorAssemblyInfo.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.RazorAssemblyInfo.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.AssemblyInfoInputs.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.AssemblyInfo.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.RazorTargetAssemblyInfo.cache
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.RazorTargetAssemblyInfo.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.Views.pdb
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.pdb
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Twitch Tools.csproj.CopyComplete
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ToDoList.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\ToDoItem.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Pages\ToDoList.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\ToDoItem.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\TodoList.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\TodoList.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NewItemEntry.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\NewItemEntry.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyPages\People.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Pages\MyPages\People.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Twitch Tools.StaticWebAssets.xml
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Blazored.Modal.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginModal.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RegisterModal.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\LoginModal.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\RegisterModal.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Topmenu.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\Topmenu.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Footer.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Shared\Footer.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
