@@ -4,3 +4,7 @@
 
 #ignore application settings
 appsettings.json
+
+#ignore directories
+/vscode
+/bin
