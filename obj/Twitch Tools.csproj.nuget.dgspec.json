@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Twitch Tools.csproj": {}
+    "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Twitch Tools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Twitch Tools.csproj": {
+    "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Twitch Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Twitch Tools.csproj",
+        "projectUniqueName": "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Twitch Tools.csproj",
         "projectName": "Twitch Tools",
-        "projectPath": "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Twitch Tools.csproj",
+        "projectPath": "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Twitch Tools.csproj",
         "packagesPath": "C:\\Users\\divid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\obj\\",
+        "outputPath": "C:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

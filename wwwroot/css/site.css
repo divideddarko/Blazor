@@ -231,8 +231,11 @@ main {
 }
 
 .loginImage {
-    background-image: url("../images/welcomeImage.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: url("../images/welcomeImage.jpg") no-repeat left bottom;
     background-size: cover;
+    min-height: 500px;
+    border-radius: 0 10px 10px 0;
+    padding: 0;
+    background-size: cover;
+    min-height: 100%;
 }
