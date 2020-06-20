@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Twitch Tools.csproj",
+  "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Twitch Tools.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -11,6 +11,349 @@
   },
   "ProjectWorkspaceState": {
     "TagHelpers": [
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.App",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.App"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.App",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Twitch_Tools.App",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.Counter",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.Counter"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.Counter",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Twitch_Tools.Pages.Counter",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.Error",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Error",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.Error"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.Error",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Twitch_Tools.Pages.Error",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.Error",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.FetchData",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.FetchData"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.FetchData",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Twitch_Tools.Pages.FetchData",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.Index",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.Index"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.Index",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Twitch_Tools.Pages.Index",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.MyPages.People",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "People",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.MyPages.People"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.MyPages.People",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Twitch_Tools.Pages.MyPages.People",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.MyPages.People",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.ToDoList",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ToDoList",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.ToDoList"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Twitch_Tools.Pages.ToDoList",
+        "AssemblyName": "Twitch Tools",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Twitch_Tools.Pages.ToDoList",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Twitch_Tools.Pages.ToDoList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
       {
         "Kind": "Components.Component",
         "Name": "Twitch_Tools.Shared.Footer",
@@ -901,398 +1244,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Twitch_Tools.Shared.Topmenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.App",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.App"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.App",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Twitch_Tools.App",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.Counter",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.Counter"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.Counter",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Twitch_Tools.Pages.Counter",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.Error",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Error",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.Error"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.Error",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Twitch_Tools.Pages.Error",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.Error",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.FetchData",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.FetchData"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.FetchData",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Twitch_Tools.Pages.FetchData",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.Index",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.Index"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.Index",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Twitch_Tools.Pages.Index",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.Login",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.Login"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.Login",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Twitch_Tools.Pages.Login",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.MyPages.People",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "People",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.MyPages.People"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.MyPages.People",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Twitch_Tools.Pages.MyPages.People",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.MyPages.People",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.ToDoList",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ToDoList",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.ToDoList"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Twitch_Tools.Pages.ToDoList",
-        "AssemblyName": "Twitch Tools",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Twitch_Tools.Pages.ToDoList",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Twitch_Tools.Pages.ToDoList",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -22213,98 +22164,98 @@
   "RootNamespace": "Twitch_Tools",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\Topmenu.razor",
-      "TargetPath": "Shared\\Topmenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Pages\\Login.razor",
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Pages\\Login.razor",
       "TargetPath": "Pages\\Login.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\RegisterModal.razor",
-      "TargetPath": "Shared\\RegisterModal.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\LoginModal.razor",
-      "TargetPath": "Shared\\LoginModal.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\ToDoItem.razor",
-      "TargetPath": "Shared\\ToDoItem.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\TodoList.razor",
-      "TargetPath": "Shared\\TodoList.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Pages\\MyPages\\People.razor",
-      "TargetPath": "Pages\\MyPages\\People.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Pages\\ToDoList.razor",
-      "TargetPath": "Pages\\ToDoList.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\NewItemEntry.razor",
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\NewItemEntry.razor",
       "TargetPath": "Shared\\NewItemEntry.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\App.razor",
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\ToDoItem.razor",
+      "TargetPath": "Shared\\ToDoItem.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Pages\\MyPages\\People.razor",
+      "TargetPath": "Pages\\MyPages\\People.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Shared\\Footer.razor",
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\Footer.razor",
       "TargetPath": "Shared\\Footer.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Pages\\Error.razor",
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Pages\\ToDoList.razor",
+      "TargetPath": "Pages\\ToDoList.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\RegisterModal.razor",
+      "TargetPath": "Shared\\RegisterModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\Topmenu.razor",
+      "TargetPath": "Shared\\Topmenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Pages\\Error.razor",
       "TargetPath": "Pages\\Error.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\TodoList.razor",
+      "TargetPath": "Shared\\TodoList.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Shared\\LoginModal.razor",
+      "TargetPath": "Shared\\LoginModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\divid\\Documents\\C Development\\Twitch Tools\\Blazor\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     }
   ],
