@@ -85,7 +85,7 @@ using Twitch_Tools.Shared.PreLogin;
 #nullable disable
 #nullable restore
 #line 12 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
-using Twitch_Tools.Model;
+using Twitch_Tools.Models;
 
 #line default
 #line hidden

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Twitch_Tools.Model
+namespace Twitch_Tools.Models
 {
     public class Todo
     {

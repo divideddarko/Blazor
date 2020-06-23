@@ -81,7 +81,7 @@ using Twitch_Tools.Shared.PreLogin;
 #nullable disable
 #nullable restore
 #line 12 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
-using Twitch_Tools.Model;
+using Twitch_Tools.Models;
 
 #line default
 #line hidden
@@ -122,7 +122,7 @@ using Blazored.Modal.Services;
         {
             __builder.AddMarkupContent(0, "<h1>ToDoList:</h1>\r\n");
             __builder.OpenComponent<Twitch_Tools.Shared.TodoList>(1);
-            __builder.AddAttribute(2, "todos", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Collections.Generic.IList<Twitch_Tools.Model.Todo>>(
+            __builder.AddAttribute(2, "todos", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Collections.Generic.IList<Twitch_Tools.Models.Todo>>(
 #nullable restore
 #line 4 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\Pages\ToDoList.razor"
                   todos

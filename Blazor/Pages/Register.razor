@@ -1,30 +1,54 @@
 @layout Shared.PreLogin.PreLoginLayout
 @page "/Register"
+@using Twitch_Tools.Models
 
-    <p class="h2 text-center">Register Account</p>
+@inject IPeopleData _db
 
-    <form>
+<div class="col rounded bg-info py-5">
+    <EditForm Model="@newUser" OnValidSubmit="@InsertUser">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
         <div class="form-group">
             <label for="email">Email</label>
-            <input type="email" class="form-control" id="emailAddressInput" placeholder="Email Address">
+            <InputText id="emailAddress" type="email" class="form-control" palceholder="Email Address" @bind-Value="newUser.EmailAddress" />
         </div>
 
         <div class="form-group">
             <label for="password">Password</label>
-            <input type="password" class="form-control" id="passwordInput">
+            <InputText id="password" type="password" class="form-control" @bind-Value="newUser.Password" />
         </div>
 
         <div class="form-group">
             <label for="password">Confirm Password</label>
-            <input type="password" class="form-control" id="confirmPasswordInput">
+            <InputText id="confirmPassword" type="password" class="form-control" @bind-Value="newUser.ConfirmPassword" />
         </div>
 
         <div class="text-right">
-            <a href="login" role="button" class="btn btn-secondary col-4">Login</a>
-            <button type="submit" class="btn btn-primary col-4">Register</button>
+            <button type="submit" class="btn btn-primary">Register</button>
         </div>
-    </form>
+    </EditForm>
+</div>
+
+<div class="col-5">
+    Register Account
+</div>
 
 @code{
+    private UserModel newUser = new UserModel();
 
+    private async Task InsertUser()
+    {
+
+        UserModel newU = new UserModel()
+        {
+            EmailAddress = newUser.EmailAddress,
+            Password = newUser.Password,
+            ConfirmPassword = newUser.ConfirmPassword
+        };
+
+        await _db.InsertUser(newU);
+
+        newUser = new UserModel();
+
+    }
 }

@@ -1,11 +1,23 @@
 @layout MainLayout
 @page "/Data/People"
-
+@using Twitch_Tools.Models
 @using Twitch_Tools
 
 @inject IPeopleData _db
 
 <h2>People</h2>
+
+<h4>Insert New Person</h4>
+<EditForm Model="@newPerson" OnValidSubmit="@InsertPerson">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText  id="firstName" @bind-Value="newPerson.FirstName" />
+    <InputText  id="surName" @bind-Value="newPerson.Surname" />
+    <InputText  id="firstName" @bind-Value="newPerson.EmailAddress" />
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
 
 <h4>Current People</h4>
 
@@ -40,9 +52,32 @@ else
 @code
 {
     private List<PersonModel> people;
+    private PersonModel newPerson = new PersonModel();
 
     protected override async Task OnInitializedAsync()
     {
         people = await _db.GetPeople();
+    }
+
+    private async Task InsertPerson()
+    {
+        PersonModel p = new PersonModel
+        {
+            FirstName = newPerson.FirstName,
+            Surname = newPerson.Surname,
+            EmailAddress = newPerson.EmailAddress
+        };
+
+        await _db.InsertPerson(p);
+
+        @* Cheating the update to the database as it's only plain data
+            if we wanted to call everyting from the database we could use
+            people = await _db.GetPeople();
+         *@
+
+        people.Add(p);
+
+        @* Wipe out data from the last input *@
+        newPerson = new PersonModel();
     }
 }
