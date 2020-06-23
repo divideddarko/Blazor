@@ -178,3 +178,7 @@ C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3
 C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\Twitch Tools.csproj.CopyComplete
 C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\Twitch Tools.dll
 C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\Twitch Tools.pdb
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\PreLogin\PreLoginLayout.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\Razor\Shared\PreLogin\PreLoginLayout.razor.g.cs

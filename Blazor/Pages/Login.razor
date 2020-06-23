@@ -1,28 +1,24 @@
+@layout Shared.PreLogin.PreLoginLayout
 @page "/login"
-  <div class="row h-50 justify-content-md-center d-flex align-items-center">
 
-    <div class="col-6 align-items-center rounded">
-      <p class="h2 text-center">Sign in with</p>
-      <div class="container-fluid align-items-center">
-        <button type="submit" class="btn btn-primary">Facebook</button>
-        <button type="submit" class="btn btn-primary">Google</button>
-      </div>
-      <form>
-        <div class="form-group">
-            <label for="email">Email</label>
-            <input type="email" class="form-control" id="emailAddressInput" placeholder="Email Address">
-        </div>
-        <div class="form-group">
-            <label for="password">Password</label>
-            <input type="password" class="form-control" id="passwordInput">
-        </div>
-        @* <button @onclick="RegisterModal" class="btn btn-primary">Register</button> *@
-        <button type="submit" class="btn btn-secondary">Register</button>
-        <button type="submit" class="btn btn-primary">Login</button>
+  <p class="h2 text-center">Sign in with</p>
 
-      </form>
+  <form>
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="email" class="form-control" id="emailAddressInput" placeholder="Email Address">
     </div>
-  </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" class="form-control" id="passwordInput">
+    </div>
+
+    <div class="text-right">
+      <a href="Register" role="button" class="btn btn-secondary col-4">Register</a>
+      <button type="submit" class="btn btn-primary col-4">Login</button>
+    </div>
+  </form>
+
 
 @{
 

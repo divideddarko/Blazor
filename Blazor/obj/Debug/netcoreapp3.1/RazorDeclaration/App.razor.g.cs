@@ -77,35 +77,42 @@ using Twitch_Tools.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 11 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
-using Twitch_Tools.Model;
+#line 10 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
+using Twitch_Tools.Shared.PreLogin;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 12 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
+using Twitch_Tools.Model;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
 using Twitch_Tools.Sql;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 16 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
+#line 17 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
 using Blazored;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 17 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
+#line 18 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
 using Blazored.Modal;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 18 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
+#line 19 "C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\_Imports.razor"
 using Blazored.Modal.Services;
 
 #line default
