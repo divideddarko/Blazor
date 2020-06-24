@@ -4579,7 +4579,7 @@
       "Blazored.Modal >= 4.1.0",
       "Dapper >= 2.0.35",
       "Microsoft.Extensions.Configuration.Abstractions >= 5.0.0-preview.4.20251.6",
-      "Sodium.Core",
+      "Sodium.Core >= 1.2.3",
       "System.Data.SqlClient"
     ]
   },
@@ -4641,7 +4641,7 @@
           },
           "Sodium.Core": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[1.2.3, )"
           },
           "System.Data.SqlClient": {
             "target": "Package",

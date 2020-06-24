@@ -182,3 +182,9 @@ C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3
 C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
 C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\PreLogin\PreLoginLayout.razor.g.cs
 C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\obj\Debug\netcoreapp3.1\Razor\Shared\PreLogin\PreLoginLayout.razor.g.cs
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\bin\Debug\netcoreapp3.1\Sodium.Core.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsodium.so
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsodium.so
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsodium.dylib
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libsodium.dll
+C:\Users\divid\Documents\C Development\Twitch Tools\Blazor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libsodium.dll
